@@ -1,0 +1,167 @@
+[
+    {
+        "gender": "male",
+        "age": "25",
+        "weight": "63",
+        "height": "1.62",
+        "imc": 24.01,
+        "idealWeight": [
+            48.55,
+            65.35
+        ]
+    },
+    {
+        "gender": "female",
+        "age": "21",
+        "weight": "54",
+        "height": "1.64",
+        "imc": 20.08,
+        "idealWeight": [
+            49.76,
+            66.97
+        ]
+    },
+    {
+        "gender": "female",
+        "age": "19",
+        "weight": "50",
+        "height": "1.58",
+        "imc": 20.03,
+        "idealWeight": [
+            46.18,
+            62.16
+        ]
+    },
+    {
+        "gender": "female",
+        "age": "46",
+        "weight": "60",
+        "height": "1.60",
+        "imc": 23.44,
+        "idealWeight": [
+            47.36,
+            63.74
+        ]
+    },
+    {
+        "gender": "male",
+        "age": "49",
+        "weight": "72",
+        "height": "1.65",
+        "imc": 26.45,
+        "idealWeight": [
+            50.37,
+            67.79
+        ]
+    },
+    {
+        "gender": "male",
+        "age": "35",
+        "weight": "75",
+        "height": "1.70",
+        "imc": 25.95,
+        "idealWeight": [
+            53.47,
+            71.96
+        ]
+    },
+    {
+        "gender": "female",
+        "age": "57",
+        "weight": "88",
+        "height": "1.59",
+        "imc": 34.81,
+        "idealWeight": [
+            46.77,
+            62.95
+        ]
+    },
+    {
+        "gender": "male",
+        "age": "40",
+        "weight": "81",
+        "height": "1.66",
+        "imc": 29.39,
+        "idealWeight": [
+            50.98,
+            68.61
+        ]
+    },
+    {
+        "gender": "male",
+        "age": "46",
+        "weight": "73",
+        "height": "1.66",
+        "imc": 26.49,
+        "idealWeight": [
+            50.98,
+            68.61
+        ]
+    },
+    {
+        "gender": "female",
+        "age": "67",
+        "weight": "97",
+        "height": "1.68",
+        "imc": 34.37,
+        "idealWeight": [
+            52.21,
+            70.28
+        ]
+    },
+    {
+        "gender": "female",
+        "age": "68",
+        "weight": "99",
+        "height": "1.58",
+        "imc": 39.66,
+        "idealWeight": [
+            46.18,
+            62.16
+        ]
+    },
+    {
+        "gender": "female",
+        "age": "65",
+        "weight": "85",
+        "height": "1.56",
+        "imc": 34.93,
+        "idealWeight": [
+            45.02,
+            60.6
+        ]
+    },
+    {
+        "gender": "male",
+        "age": "60",
+        "weight": "70",
+        "height": "1.65",
+        "imc": 25.71,
+        "idealWeight": [
+            50.37,
+            67.79
+        ]
+    },
+    {
+        "gender": "male",
+        "age": "56",
+        "weight": "94",
+        "height": "1.72",
+        "imc": 31.77,
+        "idealWeight": [
+            54.73,
+            73.66
+        ]
+    },
+    {
+        "gender": "female",
+        "age": "38",
+        "weight": "65",
+        "height": "1.60",
+        "imc": 25.39,
+        "idealWeight": [
+            47.36,
+            63.74
+        ]
+    }
+]
